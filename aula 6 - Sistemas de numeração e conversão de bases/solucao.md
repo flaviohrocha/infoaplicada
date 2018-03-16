@@ -24,3 +24,7 @@
 
 FADA<sub>16</sub> => 64218<sub>10</sub>
 
+---
+
+<p align="left">
+<a href='bases.md' id='bases' class='anchor' aria-hidden='true'><< Aula 6 - Sistemas de numeração e conversão de bases</a></p>
